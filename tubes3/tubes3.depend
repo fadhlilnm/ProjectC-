@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673191660 source:c:\users\acer\documents\tubes3\main.cpp
+	"tubes3.h"
+
+1673190864 c:\users\acer\documents\tubes3\tubes3.h
+	<iostream>
+
+1673193562 source:c:\users\acer\documents\tubes3\tubes3.cpp
+	"tubes3.h"
+
+1673193562 source:d:\kuliah\semester 3\tubes3\tubes3.cpp
+	"tubes3.h"
+
+1673190864 d:\kuliah\semester 3\tubes3\tubes3.h
+	<iostream>
+
+1673193813 source:d:\kuliah\semester 3\tubes3\main.cpp
+	"tubes3.h"
+
